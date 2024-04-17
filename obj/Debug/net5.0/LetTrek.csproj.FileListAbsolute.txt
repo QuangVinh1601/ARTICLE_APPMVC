@@ -1,0 +1,481 @@
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\LetTrek.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\LetTrek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\LetTrek.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\LetTrek.AssemblyInfo.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\LetTrek.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\LetTrek.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\LetTrek.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\LetTrek.RazorAssemblyInfo.cache
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\LetTrek.RazorAssemblyInfo.cs
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\appsettings.json
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\LetTrek.StaticWebAssets.xml
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\LetTrek.exe
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\LetTrek.deps.json
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\LetTrek.runtimeconfig.json
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\LetTrek.runtimeconfig.dev.json
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\LetTrek.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\LetTrek.pdb
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\LetTrek.Views.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\LetTrek.Views.pdb
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Humanizer.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\MailKit.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\MimeKit.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\staticwebassets\LetTrek.StaticWebAssets.Manifest.cache
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\staticwebassets\LetTrek.StaticWebAssets.xml
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\scopedcss\bundle\LetTrek.styles.css
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\LetTrek.TagHelpers.input.cache
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\LetTrek.TagHelpers.output.cache
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\LetTrek.RazorCoreGenerate.cache
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Contact\Views\Contact\Delete.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Contact\Views\Contact\Details.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Contact\Views\Contact\Index.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Contact\Views\Contact\SendContact.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Contact\Views\Contact\_ViewImports.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Contact\Views\Contact\_ViewStart.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Database1\Views\DbManage\DeleteDb.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Database1\Views\DbManage\Index.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Database1\Views\_ViewImports.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Database1\Views\_ViewStart.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\Error.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\ErrorConfirmEmail.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\ExternalLoginConfirmation.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\ExternalLoginFailure.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\Lockout.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\Login.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\Register.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\SendCode.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\UseRecoveryCode.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\VerifyAuthenticatorCode.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\VerifyCode.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Manage\AddPhoneNumber.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Manage\ChangePassword.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Manage\DisplayRecoveryCodes.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Manage\EditProfile.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Manage\Error.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Manage\Index.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Manage\ManageLogins.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Manage\SetPassword.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Manage\VerifyPhoneNumber.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Role\AddRoleClaim.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Role\Create.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Role\Delete.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Role\Edit.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Role\EditRoleClaim.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Role\Index.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\User\AddClaim.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\User\AddRole.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\User\Index.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\User\SetPassword.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\_ViewImports.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\_ViewStart.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\ProductList\Views\Product\Index.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\ProductList\Views\_ViewImports.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Areas\ProductList\Views\_ViewStart.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\MyView\First\XinChao2.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\MyView\xinchaomoinguoi.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Pages\Razor.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Views\First\ViewProduct.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Views\First\ViewProduct2.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Views\First\ViewProduct3.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Views\First\XinChao.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Views\First\xinchaomoinguoi2.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Views\Planet\Index.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Views\Planet\Mercury.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Views\Planet\PlanetInfo.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Views\Shared\_Alert.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Views\Shared\_DropDownDBManage.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Views\Shared\_PagingXTL.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Views\Shared\_StatusMessage.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\LetTrek.RazorTargetAssemblyInfo.cache
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\LetTrek.RazorTargetAssemblyInfo.cs
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\LetTrek.Views.pdb
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\LetTrek.dll
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\ref\LetTrek.dll
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\LetTrek.pdb
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\LetTrek.genruntimeconfig.cache
+C:\Users\nguye\source\repos\LetTrek\bin\Debug\net5.0\ref\LetTrek.dll
+C:\Users\nguye\source\repos\LetTrek\obj\Debug\net5.0\LetTrek.csproj.CopyComplete
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\LetTrek.csproj.AssemblyReference.cache
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\LetTrek.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\LetTrek.AssemblyInfoInputs.cache
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\LetTrek.AssemblyInfo.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\LetTrek.csproj.CoreCompileInputs.cache
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\LetTrek.MvcApplicationPartsAssemblyInfo.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\LetTrek.MvcApplicationPartsAssemblyInfo.cache
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\LetTrek.RazorAssemblyInfo.cache
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\LetTrek.RazorAssemblyInfo.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\LetTrek.dll
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\LetTrek.pdb
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\appsettings.Development.json
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\appsettings.json
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\LetTrek.StaticWebAssets.xml
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\LetTrek.exe
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\LetTrek.deps.json
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\LetTrek.runtimeconfig.json
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\LetTrek.runtimeconfig.dev.json
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\LetTrek.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\LetTrek.pdb
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\LetTrek.Views.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\LetTrek.Views.pdb
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Humanizer.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\MailKit.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\MimeKit.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\System.Formats.Asn1.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\NET_CORE MVC\LetTrek\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\LetTrek.TagHelpers.input.cache
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\LetTrek.TagHelpers.output.cache
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\LetTrek.RazorCoreGenerate.cache
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Contact\Views\Contact\Delete.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Contact\Views\Contact\Details.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Contact\Views\Contact\Index.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Contact\Views\Contact\SendContact.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Contact\Views\Contact\_ViewImports.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Contact\Views\Contact\_ViewStart.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Database1\Views\DbManage\DeleteDb.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Database1\Views\DbManage\Index.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Database1\Views\_ViewImports.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Database1\Views\_ViewStart.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\AccessDenied.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\ConfirmEmail.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\Error.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\ErrorConfirmEmail.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\ExternalLoginConfirmation.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\ExternalLoginFailure.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\ForgotPassword.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\Lockout.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\Login.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\Register.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\RegisterConfirmation.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\ResetPassword.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\SendCode.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\UseRecoveryCode.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\VerifyAuthenticatorCode.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Account\VerifyCode.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Manage\AddPhoneNumber.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Manage\ChangePassword.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Manage\DisplayRecoveryCodes.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Manage\EditProfile.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Manage\Error.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Manage\Index.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Manage\ManageLogins.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Manage\SetPassword.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Manage\VerifyPhoneNumber.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Role\AddRoleClaim.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Role\Create.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Role\Delete.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Role\Edit.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Role\EditRoleClaim.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\Role\Index.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\User\AddClaim.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\User\AddRole.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\User\Index.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\User\SetPassword.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\_ViewImports.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\Identity\Views\_ViewStart.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\ProductList\Views\Product\Index.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\ProductList\Views\_ViewImports.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Areas\ProductList\Views\_ViewStart.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\MyView\First\XinChao2.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\MyView\xinchaomoinguoi.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Pages\Razor.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Views\First\ViewProduct.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Views\First\ViewProduct2.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Views\First\ViewProduct3.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Views\First\XinChao.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Views\First\xinchaomoinguoi2.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Views\Planet\Index.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Views\Planet\Mercury.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Views\Planet\PlanetInfo.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Views\Shared\_Alert.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Views\Shared\_DropDownDBManage.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Views\Shared\_PagingXTL.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Views\Shared\_StatusMessage.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\LetTrek.RazorTargetAssemblyInfo.cache
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\LetTrek.RazorTargetAssemblyInfo.cs
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\LetTrek.Views.pdb
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\scopedcss\bundle\LetTrek.styles.css
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\staticwebassets\LetTrek.StaticWebAssets.Manifest.cache
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\staticwebassets\LetTrek.StaticWebAssets.Pack.cache
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\staticwebassets\msbuild.LetTrek.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\staticwebassets\msbuild.build.LetTrek.props
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.LetTrek.props
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.LetTrek.props
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\staticwebassets\LetTrek.StaticWebAssets.xml
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\LetTrek.csproj.Up2Date
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\refint\LetTrek.dll
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\LetTrek.genruntimeconfig.cache
+D:\NET_CORE MVC\LetTrek\obj\Debug\net5.0\ref\LetTrek.dll

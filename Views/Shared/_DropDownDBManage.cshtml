@@ -1,0 +1,32 @@
+﻿@using Microsoft.AspNetCore.Authorization;
+@inject IAuthorizationService authorizationService;
+
+@{
+   var result  =   await authorizationService.AuthorizeAsync(this.User, "ViewDropDownMenu");
+}
+@if (result.Succeeded)
+{
+    <div class="dropdown">
+        <a class="btn btn-outline-danger dropdown-toggle" href="#" id="managedropdownmenu" data-toggle="dropdown">
+            Manage
+        </a>
+        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="managedropdownmenu">
+            <a asp-action="Index" asp-controller="DbManage" asp-area="Database1" class="dropdown-item">
+                Database
+            </a>
+            <a asp-action="Index" asp-controller="Contact" asp-area="Contact" class="dropdown-item">
+                Quản lý liên hệ
+            </a>
+            <a asp-area="Identity" asp-controller="Role" asp-action="Index" class="dropdown-item">
+                Quản lý vai trò
+            </a>
+            <a asp-area="Identity" asp-controller="User" asp-action="Index" class="dropdown-item">
+                Quản lý người dùng
+            </a>
+            <a asp-area="Blog" asp-controller="Category" asp-action="Index" class="dropdown-item">Quản lý bài đăng</a>
+        </div>
+    </div>
+}
+
+
+
