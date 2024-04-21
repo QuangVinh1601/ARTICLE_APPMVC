@@ -37,10 +37,10 @@ namespace AppMVC.Models.Blog
             [ForeignKey("ParentCategoryId")]
             [Display(Name = "Danh mục cha")]
             public int? ParentCategoryId { get; set; }
-
-
-
             public Category ParentCategory { set; get; }
+
+            
+            public ICollection<PostCategory> PostCategories { get; set; }
 
         }
     }

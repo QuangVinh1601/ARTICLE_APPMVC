@@ -400,8 +400,6 @@ D:\NET_CORE MVC\Article_MVCAPP\obj\Debug\net5.0\Razor\Areas\Blog\Views\Category\
 D:\NET_CORE MVC\Article_MVCAPP\obj\Debug\net5.0\Razor\Areas\Blog\Views\Category\Details.cshtml.g.cs
 D:\NET_CORE MVC\Article_MVCAPP\obj\Debug\net5.0\Razor\Areas\Blog\Views\Category\Edit.cshtml.g.cs
 D:\NET_CORE MVC\Article_MVCAPP\obj\Debug\net5.0\Razor\Areas\Blog\Views\Category\Index.cshtml.g.cs
-D:\NET_CORE MVC\Article_MVCAPP\obj\Debug\net5.0\Razor\Areas\Blog\Views\Category\_ViewImports.cshtml.g.cs
-D:\NET_CORE MVC\Article_MVCAPP\obj\Debug\net5.0\Razor\Areas\Blog\Views\Category\_ViewStart.cshtml.g.cs
 D:\NET_CORE MVC\Article_MVCAPP\obj\Debug\net5.0\Razor\Areas\Contact\Views\Contact\Delete.cshtml.g.cs
 D:\NET_CORE MVC\Article_MVCAPP\obj\Debug\net5.0\Razor\Areas\Contact\Views\Contact\Details.cshtml.g.cs
 D:\NET_CORE MVC\Article_MVCAPP\obj\Debug\net5.0\Razor\Areas\Contact\Views\Contact\Index.cshtml.g.cs
@@ -494,3 +492,11 @@ D:\NET_CORE MVC\Article_MVCAPP\obj\Debug\net5.0\refint\AppMVC.dll
 D:\NET_CORE MVC\Article_MVCAPP\obj\Debug\net5.0\AppMVC.pdb
 D:\NET_CORE MVC\Article_MVCAPP\obj\Debug\net5.0\AppMVC.genruntimeconfig.cache
 D:\NET_CORE MVC\Article_MVCAPP\obj\Debug\net5.0\ref\AppMVC.dll
+D:\NET_CORE MVC\Article_MVCAPP\obj\Debug\net5.0\Razor\Areas\Blog\Views\Post\Create.cshtml.g.cs
+D:\NET_CORE MVC\Article_MVCAPP\obj\Debug\net5.0\Razor\Areas\Blog\Views\Post\Delete.cshtml.g.cs
+D:\NET_CORE MVC\Article_MVCAPP\obj\Debug\net5.0\Razor\Areas\Blog\Views\Post\Details.cshtml.g.cs
+D:\NET_CORE MVC\Article_MVCAPP\obj\Debug\net5.0\Razor\Areas\Blog\Views\Post\Edit.cshtml.g.cs
+D:\NET_CORE MVC\Article_MVCAPP\obj\Debug\net5.0\Razor\Areas\Blog\Views\Post\Index.cshtml.g.cs
+D:\NET_CORE MVC\Article_MVCAPP\obj\Debug\net5.0\Razor\Areas\Blog\Views\_ViewImports.cshtml.g.cs
+D:\NET_CORE MVC\Article_MVCAPP\obj\Debug\net5.0\Razor\Areas\Blog\Views\_ViewStart.cshtml.g.cs
+D:\NET_CORE MVC\Article_MVCAPP\bin\Debug\net5.0\Bogus.dll

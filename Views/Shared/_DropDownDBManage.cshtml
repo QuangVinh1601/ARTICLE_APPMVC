@@ -23,7 +23,8 @@
             <a asp-area="Identity" asp-controller="User" asp-action="Index" class="dropdown-item">
                 Quản lý người dùng
             </a>
-            <a asp-area="Blog" asp-controller="Category" asp-action="Index" class="dropdown-item">Quản lý bài đăng</a>
+            <a asp-area="Blog" asp-controller="Category" asp-action="Index" class="dropdown-item">Quản lý chuyên mục</a>
+            <a asp-area="Blog" asp-controller="Post" asp-action="Index" asp-route-p="1" asp-route-pagesize="10" class="dropdown-item">Quản lý bài viết</a>
         </div>
     </div>
 }

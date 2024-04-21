@@ -52,6 +52,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[15.0.5, )"
+            },
             "MailKit": {
               "target": "Package",
               "version": "[4.4.0, )"

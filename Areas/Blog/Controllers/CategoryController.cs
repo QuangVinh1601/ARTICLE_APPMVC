@@ -9,19 +9,23 @@ using AppMVC.Models.Blog;
 using WebAppMVC_1.Models;
 using Microsoft.AspNetCore.Authorization;
 using App.Data;
+using Microsoft.Extensions.Logging;
 
 namespace AppMVC.Areas_Blog_Controllers
 {
     [Area("Blog")]
     [Route("admin/blog/category/[action]/{id?}")]
     [Authorize(Roles = RoleName.Administrator)]
+   
     public class CategoryController : Controller
     {
         private readonly AppDbContext _context;
+        private readonly ILogger<CategoryController> _logger;
 
-        public CategoryController(AppDbContext context)
+        public CategoryController(AppDbContext context,ILogger<CategoryController> logger)
         {
             _context = context;
+            _logger = logger;
         }
 
         // GET: Category
@@ -31,6 +35,10 @@ namespace AppMVC.Areas_Blog_Controllers
                                      .Include(c => c.CategoryChildren);
             var parentCategoryRoot =  (await blog.ToListAsync())
                                       .Where (c => c.ParentCategoryId == null); 
+            foreach ( var p in parentCategoryRoot)
+            {
+                _logger.LogInformation(p.Title);
+            }
            return View(parentCategoryRoot);
         }
 
@@ -163,6 +171,40 @@ namespace AppMVC.Areas_Blog_Controllers
             if (id != category.Id)
             {
                 return NotFound();
+            }
+            bool canUpdate = true; 
+            if(canUpdate && category.ParentCategoryId == category.Id)
+            {
+                canUpdate = false;
+                ModelState.AddModelError(string.Empty, "Danh mục chỉnh sửa không được phép chọn danh mục cha chính nó");
+            }
+            if(canUpdate && category.ParentCategoryId != null)
+            {
+                var childrenCategory =    (await _context.Blogs
+                                         .Include(c => c.CategoryChildren)
+                                         .ToListAsync())
+                                         .Where(c => c.ParentCategoryId == category.Id);
+                Func<List<Category>, bool> checkCateIds = null;
+                checkCateIds = (cates) =>
+                {
+                    foreach (var cate in cates)
+                    {
+                        if (cate.Id == category.ParentCategoryId)
+                        {
+                            canUpdate = false;
+                            ModelState.AddModelError(string.Empty, "Danh mục chỉnh sửa không thể là con của con chính nó");
+                            return true;
+                        }
+                        if (cate.CategoryChildren != null)
+                        {
+                            checkCateIds(cate.CategoryChildren.ToList());
+                        }
+                    }
+                    return false;
+                };
+
+                checkCateIds(childrenCategory.ToList());
+
             }
             if (ModelState.IsValid && category.ParentCategoryId != category.Id)
             {

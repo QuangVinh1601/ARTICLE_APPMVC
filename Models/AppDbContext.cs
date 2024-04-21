@@ -10,6 +10,8 @@ namespace WebAppMVC_1.Models
     {
         public DbSet<ContactModel> Contacts { get; set; }
         public DbSet<Category> Blogs { get; set; }
+        public DbSet<Posts> Posts { get; set; }
+        public DbSet<PostCategory> PostCategory { get; set; }
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
 
@@ -28,8 +30,20 @@ namespace WebAppMVC_1.Models
             }
             modelBuilder.Entity<Category>(entity =>
             {
-                entity.HasIndex(c => c.Slug);
+                entity.HasIndex(c => c.Slug).IsUnique();
             });
+
+            modelBuilder.Entity<PostCategory>(entity =>
+            {
+                entity.HasKey(pc => new { pc.CategoryId, pc.PostId });
+            });
+
+            modelBuilder.Entity<Posts>(entity =>
+            {
+                entity.HasIndex(p => p.Slug).IsUnique();
+            });
+
+
         }
         protected override void OnConfiguring(DbContextOptionsBuilder builder)
         {

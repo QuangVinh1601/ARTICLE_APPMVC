@@ -88,7 +88,7 @@ namespace WebAppMVC_1
             services.AddAuthentication().
                 AddGoogle((options) =>
                 {
-                    var gconfigure = Configuration.GetSection("Application:Google");
+                    var gconfigure = Configuration.GetSection("Authentication:Google");
                     options.ClientId = gconfigure["ClientId"];
                     options.ClientSecret = gconfigure["ClientSecret"];
                     options.CallbackPath = "/dang-nhap-bang-google";
